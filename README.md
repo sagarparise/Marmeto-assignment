@@ -17,6 +17,9 @@ This web page serves as a platform for users to showcase their products using vi
 
 You can view a live demo of the Product Card Page [here](<deploy_link>).
 
+## Project Images
+
+
 ## Usage
 
 1.  GitHub repository:
@@ -30,7 +33,4 @@ You can view a live demo of the Product Card Page [here](<deploy_link>).
 
 ## Thank You 😊
 
----
-
-**Note:** This project was created as a learning exercise and for demonstration purposes only.
 
