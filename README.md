@@ -15,7 +15,8 @@ This web page serves as a platform for users to showcase their products using vi
 
 ## Demo
 
-You can view a live demo of the Product Card Page [here](<deploy_link>).
+You can view a live demo of the Product Card Page [here](< https://sagarparise.github.io/Marmeto-assignment/
+>).
 
 ## Project Images
 
