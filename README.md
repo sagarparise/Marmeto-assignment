@@ -19,16 +19,17 @@ You can view a live demo of the Product Card Page [here](<deploy_link>).
 
 ## Project Images
 
+![marmeto](https://github.com/sagarparise/Marmeto-assignment/assets/141607123/45daf63f-ddc2-4629-945e-b60b5feec4b0)
 
 ## Usage
 
 1.  GitHub repository:
     ```
- 
+ https://github.com/sagarparise/Marmeto-assignment
     ```
 2.  Deploy Link :
     ```
- 
+ https://sagarparise.github.io/Marmeto-assignment/
     ```
 
 ## Thank You 😊
