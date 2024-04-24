@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Card</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <section class="card-section">
+      <div class="card">
+        <div class="img-sec">
+          <img
+            id="product-img"
+            src="https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt=""
+          />
+          <div class="img-collection">
+            <div class="img-wrapper active">
+              <img
+                src="https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt=""
+              />
+            </div>
+            <div class="img-wrapper">
+              <img
+                src="https://plus.unsplash.com/premium_photo-1661266906739-429a936075cd?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt=""
+              />
+            </div>
+            <div class="img-wrapper">
+              <img
+                src="https://images.unsplash.com/photo-1548916699-f5d72cd05b5b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGRyZXNzJTIwc2hpcnR8ZW58MHx8MHx8fDA%3D"
+                alt=""
+              />
+            </div>
+            <div class="img-wrapper">
+              <img
+                src="https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt=""
+              />
+            </div>
+          </div>
+        </div>
+        <div class="details-sec">
+          <h1 class="card-title">Embrace Sideboard</h1>
+          <div class="price-container">
+            <div class="discount-bx">
+              <h1>$12999.00</h1>
+              <h3>35% Off</h3>
+            </div>
+            <h3>$19999.00</h3>
+          </div>
+
+          <div class="color-container">
+            <p>Choose a Color</p>
+            <div class="color-pallet">
+              <div
+                class="color-box active"
+                style="background-color: #d4a373"
+              ></div>
+              <div class="color-box" style="background-color: #a7c957"></div>
+              <div class="color-box" style="background-color: #7678ed"></div>
+              <div class="color-box" style="background-color: #ffcad4"></div>
+            </div>
+          </div>
+
+          <div class="size-container">
+            <p>Choose a Size</p>
+            <div class="sz-radio-container">
+              <div class="sz-radio">
+                <input
+                  type="radio"
+                  checked
+                  name="size"
+                  id="small"
+                  value="small"
+                />
+                <label for="small">Small</label>
+              </div>
+
+              <div class="sz-radio">
+                <input type="radio" name="size" id="medium" value="medium" />
+                <label for="medium">Medium</label>
+              </div>
+
+              <div class="sz-radio">
+                <input type="radio" name="size" id="large" value="large" />
+                <label for="large">Large</label>
+              </div>
+
+              <div class="sz-radio">
+                <input
+                  type="radio"
+                  name="size"
+                  id="extraLarge"
+                  value="extra large"
+                />
+                <label for="extraLarge">Extra Large</label>
+              </div>
+
+              <div class="sz-radio">
+                <input type="radio" name="size" id="xxl" value="xxl" />
+                <label for="xxl">XXL</label>
+              </div>
+            </div>
+          </div>
+
+          <div class="btn-container">
+            <div class="counter-btn">
+              <div class="bt-1">-</div>
+              <h2 class="count-display">1</h2>
+              <div class="bt-1">+</div>
+            </div>
+            <button class="add-btn">
+              <i class="bx bxs-shopping-bag bx-tada-hover"></i
+              ><span>Add to Cart</span>
+            </button>
+          </div>
+
+          <p class="paragraph">
+            The Embrace Sideboard is a stylish wear. With a top cloth designed
+            to provide superior protection and look great, this storage solution
+            is both functional and attractive. It fits seamlessly into any home
+            decor, with clean lines and a timeless look. Crafted from premium
+            materials for a combination of style, durability, and reliability.
+          </p>
+        </div>
+      </div>
+      <div class="msg-display">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          style="fill: rgb(30, 244, 19)"
+        >
+          <path
+            d="M19.965 8.521C19.988 8.347 20 8.173 20 8c0-2.379-2.143-4.288-4.521-3.965C14.786 2.802 13.466 2 12 2s-2.786.802-3.479 2.035C6.138 3.712 4 5.621 4 8c0 .173.012.347.035.521C2.802 9.215 2 10.535 2 12s.802 2.785 2.035 3.479A3.976 3.976 0 0 0 4 16c0 2.379 2.138 4.283 4.521 3.965C9.214 21.198 10.534 22 12 22s2.786-.802 3.479-2.035C17.857 20.283 20 18.379 20 16c0-.173-.012-.347-.035-.521C21.198 14.785 22 13.465 22 12s-.802-2.785-2.035-3.479zm-9.01 7.895-3.667-3.714 1.424-1.404 2.257 2.286 4.327-4.294 1.408 1.42-5.749 5.706z"
+          ></path>
+        </svg>
+        <p>Product Added</p>
+      </div>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>
