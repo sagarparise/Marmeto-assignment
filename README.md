@@ -15,24 +15,16 @@ This web page serves as a platform for users to showcase their products using vi
 
 ## Demo
 
-You can view a live demo of the Product Card Page [here](< https://sagarparise.github.io/Marmeto-assignment/
->).
+You can view a live demo of the Product Card Page [here](https://sagarparise.github.io/Marmeto-assignment/).
 
 ## Project Images
 
-![marmeto](https://github.com/sagarparise/Marmeto-assignment/assets/141607123/45daf63f-ddc2-4629-945e-b60b5feec4b0)
+![Product Card Page](https://github.com/sagarparise/Marmeto-assignment/assets/141607123/45daf63f-ddc2-4629-945e-b60b5feec4b0)
 
 ## Usage
 
-1.  GitHub repository:
-    ```
- https://github.com/sagarparise/Marmeto-assignment
-    ```
-2.  Deploy Link :
-    ```
- https://sagarparise.github.io/Marmeto-assignment/
-    ```
+1. GitHub repository: [https://github.com/sagarparise/Marmeto-assignment](https://github.com/sagarparise/Marmeto-assignment)
+   
+2. Deploy Link: [https://sagarparise.github.io/Marmeto-assignment/](https://sagarparise.github.io/Marmeto-assignment/)
 
 ## Thank You 😊
-
-
